@@ -4,8 +4,12 @@ table.u-full-width
     tr
       th Name
       th Experience
+      th Pursued Degree
+      th Expected Graduation
   tbody
   each education in contents['education.json'].metadata     
     tr
       td= education.name
       td= education.years + ' years'
+      td= education.degree
+      td= education.gradYear

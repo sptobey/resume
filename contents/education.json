@@ -1,7 +1,8 @@
-[{
-    "name": "Community College of Aurora",
-    "years": 1
-}, {
-    "name": "CU Boulder",
-    "years": 5
-}]
+[
+{
+    "name": "University of Colorado at Boulder",
+    "years": 3,
+    "degree": "BS, Computer Science",
+    "gradYear": "May 2016"
+}
+]

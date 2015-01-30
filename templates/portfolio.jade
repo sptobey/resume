@@ -12,9 +12,10 @@ table.u-full-width
       td=proj.name
       td=proj.language
       td
-        a(href=proj.url) Link
+        if proj.url
+          a(href=proj.url) Link
 
 each proj in contents['portfolio.json'].metadata
   if proj.pic
     center
-        img(src=proj.pic)
+        img(src='images/' + proj.pic)

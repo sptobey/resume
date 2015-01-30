@@ -1,11 +1,14 @@
-[{
-	"skill": "Dynamic Web Development",
-	"experience": "Over 4 years experience using PHP+MySql along with other languages to build dynamic and unique web pages"
-},{
-	"skill": "Database Creation",
-	"experience": "Developed numerous database systems and implemented them succesfully"
-},{
-	"skill": "Linux development",
-	"experience": "Over 4 years using Linux on Virtual and Native systems"
-
-}]
+[
+{
+	"skill": "Programming Languages",
+	"experience": "C, C++, C#, Matlab, Python.  Familiar with Scala, Java, Javascript "
+},
+{
+	"skill": "Operating System",
+	"experience": "Comforatable with Linux, Windows 7, (occasionly OS X)"
+},
+{
+	"skill": "Other",
+	"experience": "Github, Geany (IDE), Unity, MS Office, Dropbox.  Familiar with vim/vi."
+}
+]
